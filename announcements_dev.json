@@ -10,7 +10,7 @@
       "content": "感谢大家一直以来对项目的支持！\n\n我这边开通了自营购买地址，提供：\n• Gemini Pro 成品号\n• Gemini Plus 兑换码\n• 购买账号赠送 Antigravity 无感切号方案\n\n如果你刚好有这方面需求，欢迎前往选购支持。",
       "action": {
         "type": "url",
-        "target": "https://xiangzili.xyz",
+        "target": "https://xiangzili.xyz/user/index/shop",
         "label": "前往选购"
       },
       "targetVersions": "*",
